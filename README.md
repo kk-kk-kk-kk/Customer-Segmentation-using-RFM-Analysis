@@ -13,4 +13,4 @@ Recency – How recently did the customer purchase?
 Frequency – How often do they purchase?
 Monetary Value – How much do they spend (each time on average)?
 
-Please refer to the RFM.pdf file for more details on the explanation and the .Rmd file for the R code
+Please refer to the RFM.pdf file for more details on the explanation and R code
