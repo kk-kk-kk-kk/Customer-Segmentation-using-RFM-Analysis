@@ -1,3 +1,4 @@
+# Academic Project
 # Customer-Segmentation-using-RFM-Analysis
 
 The database marketing or direct marketing people are always concerned about two questions before they send out mails or 
